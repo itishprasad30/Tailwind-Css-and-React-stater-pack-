@@ -5,6 +5,6 @@
 
 ## git clone : --
 
-## npm intall
+## npm install
 
 then you good to go
